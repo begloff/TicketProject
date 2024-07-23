@@ -35,19 +35,6 @@ address.
    cd TicketProject
    ```
 
-2. **Set up environment variables**:
-   Create a `.env` file in the `src/api` directory with the following content:
-
-   ```
-   DB_HOST=db
-   DB_USER=root
-   DB_PASSWORD=root
-   DB_DATABASE=ticket_project
-   DB_DIALECT=mysql
-   ```
-
-   OR, use the existing variables in the provided `.env` files.
-
 ### Running the Application
 
 1. **Build and start the containers**:
