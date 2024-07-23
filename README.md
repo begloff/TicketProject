@@ -31,12 +31,13 @@ address.
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/yourusername/event-ticket-booking-system.git
-   cd event-ticket-booking-system
+   git clone https://github.com/begloff/TicketProject.git
+   cd TicketProject
    ```
 
 2. **Set up environment variables**:
    Create a `.env` file in the `src/api` directory with the following content:
+
    ```
    DB_HOST=db
    DB_USER=root
@@ -44,6 +45,8 @@ address.
    DB_DATABASE=ticket_project
    DB_DIALECT=mysql
    ```
+
+   OR, use the existing variables in the provided `.env` files.
 
 ### Running the Application
 
