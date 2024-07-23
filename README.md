@@ -72,7 +72,7 @@ address.
 
 ## Project Structure
 
-````bash
+```bash
 TicketProject
 ├── README.md
 ├── docker-compose.yml
@@ -154,6 +154,4 @@ TicketProject
         │       ├── constants.js
         │       └── index.js
         └── yarn.lock
-        ```
-
-````
+```
