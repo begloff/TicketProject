@@ -35,9 +35,5 @@ Thumbs.db
 *.tmp
 *~
 
-# React
-build/
-public/
-
 # Sequelize
 config/config.json
